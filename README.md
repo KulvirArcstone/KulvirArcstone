@@ -148,8 +148,8 @@ Git • GitHub • n8n • Postman
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: 
+* 📧 Email: 
 
 ---
 
